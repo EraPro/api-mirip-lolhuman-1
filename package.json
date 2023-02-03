@@ -17,7 +17,7 @@
     "url": "https://github.com/RimuruEditz/"
   },
   "homepage": "https://github.com/RimuruEditz",
-  "dependencies": {
+  "devDependencies": {
     "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
     "base-64": "^1.0.0",
